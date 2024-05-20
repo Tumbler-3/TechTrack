@@ -7,7 +7,10 @@ Implemented support for GET, POST, PUT, DELETE and error handling and return app
 ![image](https://github.com/Tumbler-3/TechTrack/assets/73570792/c948f502-08ef-4459-b06e-1097fd6a63f4)
 ![image](https://github.com/Tumbler-3/TechTrack/assets/73570792/8276c9c6-ea38-4cf7-88d0-4474e45a9551)
 
-![Uploading image.png…]()
+
+![image](https://github.com/Tumbler-3/TechTrack/assets/73570792/f0bca556-fd0a-4a86-ac72-b05f068ef85e)
+![image](https://github.com/Tumbler-3/TechTrack/assets/73570792/879fc10c-3f40-40b5-bedc-1b33673d946b)
+
 
 
 
